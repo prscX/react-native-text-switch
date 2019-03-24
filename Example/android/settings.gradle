@@ -1,0 +1,5 @@
+rootProject.name = 'Example'
+include ':react-native-text-switch'
+project(':react-native-text-switch').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-text-switch/android')
+
+include ':app'
