@@ -18,7 +18,7 @@ This library is a React Native bridge around native text switch libraries. It al
 
 | **iOS: [rcgary/RCRunkeeperSwitch](https://github.com/rcgary/RCRunkeeperSwitch)**             |
 | ----------------- |
-| <img src="https://raw.githubusercontent.com/rcgary/RCRunkeeperSwitch/master/RCRunkeeperSwitch.gif" height="600" />                  |
+| <img src="https://raw.githubusercontent.com/rcgary/RCRunkeeperSwitch/master/RCRunkeeperSwitch.gif" />                  |
 
 | **Android: [polyak01/IconSwitch](https://github.com/polyak01/IconSwitch)**             |
 | ----------------- |
