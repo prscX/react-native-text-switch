@@ -8,7 +8,9 @@
 </p>
 
 
-    ReactNative: Native Text Switch (Android/iOS)
+    ReactNative: Native Text Switch (Android/iOS): Deprecated
+
+Library is deprecated and not maintained anymore, You can still use this library.
 
 If this project has helped you out, please support us with a star 🌟
 </h1>
